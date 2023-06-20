@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687257935 source:e:\asma\hardprogramming\c++\shoppingapp\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
